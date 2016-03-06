@@ -9,7 +9,7 @@
 
 #import "FBSimulatorPoolTestCase.h"
 
-#import <FBSimulatorControl/FBSimulatorControl.h>
+#import "FBSimulatorControl.h"
 
 #import "CoreSimulatorDoubles.h"
 #import "FBSimulatorControlFixtures.h"

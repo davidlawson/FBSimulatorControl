@@ -10,7 +10,7 @@
 #import <Foundation/Foundation.h>
 #import <XCTest/XCTest.h>
 
-#import <FBSimulatorControl/FBSimulatorControl.h>
+#import "FBSimulatorControl.h"
 
 #import "FBSimulatorControlFixtures.h"
 

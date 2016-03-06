@@ -9,7 +9,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <FBSimulatorControl/FBSimulatorPool.h>
+#import "FBSimulatorPool.h"
 
 @class FBSimulatorApplication;
 @class FBSimulatorConfiguration;

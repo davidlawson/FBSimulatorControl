@@ -9,7 +9,7 @@
 
 #import "FBSimulatorControlTestCase.h"
 
-#import <FBSimulatorControl/FBSimulatorControl.h>
+#import "FBSimulatorControl.h"
 
 #import "FBSimulatorControlAssertions.h"
 

@@ -7,7 +7,7 @@
  * of patent rights can be found in the PATENTS file in the same directory.
  */
 
-#import <FBSimulatorControl/FBSimulatorEventSink.h>
+#import "FBSimulatorEventSink.h"
 
 /**
  An Event Sink that can be changed with an Event Sink of the User's choosing at Runtime.

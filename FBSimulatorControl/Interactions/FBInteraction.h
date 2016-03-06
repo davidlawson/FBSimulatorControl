@@ -9,7 +9,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <FBSimulatorControl/FBInteraction.h>
+#import "FBInteraction.h"
 
 /**
  Represents a Synchronous Action that can Succed or Fail.

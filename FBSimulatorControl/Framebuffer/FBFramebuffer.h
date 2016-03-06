@@ -9,7 +9,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <FBSimulatorControl/FBJSONSerializationDescribeable.h>
+#import "FBJSONSerializationDescribeable.h"
 
 @class FBFramebufferVideo;
 @class FBSimulator;

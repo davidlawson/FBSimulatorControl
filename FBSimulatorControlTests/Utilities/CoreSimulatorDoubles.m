@@ -9,7 +9,7 @@
 
 #import "CoreSimulatorDoubles.h"
 
-#import <FBSimulatorControl/FBSimulatorControl.h>
+#import "FBSimulatorControl.h"
 
 @implementation FBSimulatorControlTests_SimDeviceType_Double
 @end

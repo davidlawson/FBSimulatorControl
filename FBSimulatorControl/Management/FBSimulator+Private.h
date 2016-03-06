@@ -7,8 +7,8 @@
  * of patent rights can be found in the PATENTS file in the same directory.
  */
 
-#import <FBSimulatorControl/FBSimulator.h>
-#import <FBSimulatorControl/FBSimulatorEventSink.h>
+#import "FBSimulator.h"
+#import "FBSimulatorEventSink.h"
 
 @class FBMutableSimulatorEventSink;
 @class FBProcessQuery;

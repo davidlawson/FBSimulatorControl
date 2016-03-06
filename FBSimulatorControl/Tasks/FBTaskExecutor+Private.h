@@ -9,7 +9,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <FBSimulatorControl/FBTaskExecutor.h>
+#import "FBTaskExecutor.h"
 
 @interface FBTaskExecutor ()
 

@@ -9,7 +9,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <FBSimulatorControl/FBFramebufferDelegate.h>
+#import "FBFramebufferDelegate.h"
 
 @class FBFramebufferVideoConfiguration;
 @protocol FBSimulatorLogger;

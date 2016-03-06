@@ -9,7 +9,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <FBSimulatorControl/FBSimulatorEventSink.h>
+#import "FBSimulatorEventSink.h"
 
 @class FBDiagnostic;
 @class FBDiagnosticBuilder;

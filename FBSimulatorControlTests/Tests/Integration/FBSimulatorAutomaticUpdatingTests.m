@@ -11,7 +11,7 @@
 
 #import <Cocoa/Cocoa.h>
 
-#import <FBSimulatorControl/FBSimulatorControl.h>
+#import "FBSimulatorControl.h"
 
 #import "FBSimulatorControlAssertions.h"
 #import "FBSimulatorControlFixtures.h"

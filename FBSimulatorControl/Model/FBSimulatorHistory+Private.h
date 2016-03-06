@@ -9,7 +9,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <FBSimulatorControl/FBSimulatorHistory.h>
+#import "FBSimulatorHistory.h"
 
 @interface FBSimulatorHistory ()
 

@@ -9,8 +9,8 @@
 
 #import <XCTest/XCTest.h>
 
-#import <FBSimulatorControl/FBSimulatorControlConfiguration.h>
-#import <FBSimulatorControl/FBSimulatorPool.h>
+#import "FBSimulatorControlConfiguration.h"
+#import "FBSimulatorPool.h"
 
 @class FBSimulator;
 @class FBSimulatorConfiguration;

@@ -9,9 +9,9 @@
 
 #import <Foundation/Foundation.h>
 
-#import <FBSimulatorControl/FBSimulator.h>
-#import <FBSimulatorControl/FBSimulatorEventSink.h>
-#import <FBSimulatorControl/FBSimulatorHistory.h>
+#import "FBSimulator.h"
+#import "FBSimulatorEventSink.h"
+#import "FBSimulatorHistory.h"
 
 @class FBProcessLaunchConfiguration;
 @class FBSimulatorBinary;

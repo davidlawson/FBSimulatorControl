@@ -7,7 +7,7 @@
  * of patent rights can be found in the PATENTS file in the same directory.
  */
 
-#import <FBSimulatorControl/FBSimulatorEventSink.h>
+#import "FBSimulatorEventSink.h"
 
 /**
  An event sink responsible for cleaning up resources that are allocated for Simulators and their subprocesses.

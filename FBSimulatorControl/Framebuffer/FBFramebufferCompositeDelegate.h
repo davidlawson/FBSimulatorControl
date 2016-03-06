@@ -9,7 +9,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <FBSimulatorControl/FBFramebufferDelegate.h>
+#import "FBFramebufferDelegate.h"
 
 /**
  A Framebuffer Delegate that forwards all messages to an array of delegates.

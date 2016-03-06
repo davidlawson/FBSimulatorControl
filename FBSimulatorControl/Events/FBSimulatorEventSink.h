@@ -7,7 +7,7 @@
  * of patent rights can be found in the PATENTS file in the same directory.
  */
 
-#import <FBSimulatorControl/FBSimulator.h>
+#import "FBSimulator.h"
 
 @class FBAgentLaunchConfiguration;
 @class FBApplicationLaunchConfiguration;

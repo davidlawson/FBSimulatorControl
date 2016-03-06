@@ -9,8 +9,8 @@
 
 #import <Foundation/Foundation.h>
 
-#import <FBSimulatorControl/FBInteraction.h>
-#import <FBSimulatorControl/FBSimulator.h>
+#import "FBInteraction.h"
+#import "FBSimulator.h"
 
 @class FBSimulator;
 @class FBSimulatorApplication;

@@ -9,7 +9,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <FBSimulatorControl/FBSimulatorEventSink.h>
+#import "FBSimulatorEventSink.h"
 
 /**
  Notification that is fired when a Simulator Launches.

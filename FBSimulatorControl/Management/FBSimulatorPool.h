@@ -9,7 +9,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <FBSimulatorControl/FBDebugDescribeable.h>
+#import "FBDebugDescribeable.h"
 
 @class FBSimulator;
 @class FBSimulatorConfiguration;

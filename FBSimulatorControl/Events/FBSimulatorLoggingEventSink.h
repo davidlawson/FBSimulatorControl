@@ -9,8 +9,8 @@
 
 #import <Foundation/Foundation.h>
 
-#import <FBSimulatorControl/FBSimulatorEventSink.h>
-#import <FBSimulatorControl/FBSimulatorLogger.h>
+#import "FBSimulatorEventSink.h"
+#import "FBSimulatorLogger.h"
 
 @class FBSimulator;
 
